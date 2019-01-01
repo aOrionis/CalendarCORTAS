@@ -2,7 +2,7 @@
 """
 Created on Fri Jan 19 16:50:46 2018
 
-@author: SAHIL
+@author: orionis
 """
 
 import pandas as pd #To make dataframes from HTML
